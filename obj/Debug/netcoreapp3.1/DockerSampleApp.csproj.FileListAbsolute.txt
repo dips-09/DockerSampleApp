@@ -1,0 +1,9 @@
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\DockerSampleApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\DockerSampleApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\DockerSampleApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\DockerSampleApp\obj\Debug\netcoreapp3.1\DockerSampleApp.csprojAssemblyReference.cache
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\DockerSampleApp\obj\Debug\netcoreapp3.1\DockerSampleApp.AssemblyInfoInputs.cache
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\DockerSampleApp\obj\Debug\netcoreapp3.1\DockerSampleApp.AssemblyInfo.cs
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\DockerSampleApp\obj\Debug\netcoreapp3.1\DockerSampleApp.RazorTargetAssemblyInfo.cache
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\DockerSampleApp\obj\Debug\netcoreapp3.1\staticwebassets\DockerSampleApp.StaticWebAssets.Manifest.cache
+E:\Cognizant Post Joining\CTS Stage 4 Microsoft Azure\DockerSampleApp\obj\Debug\netcoreapp3.1\staticwebassets\DockerSampleApp.StaticWebAssets.xml

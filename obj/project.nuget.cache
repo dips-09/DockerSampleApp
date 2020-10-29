@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5dMvQidugWXM64XyTinDO2Ib6245S0PLfwdQ0d3hyDqr8rfgKjPqd3eHe+gvmj0fITGmNTvHAKijpAlvoHIwQA==",
+  "success": true,
+  "projectFilePath": "E:\\Cognizant Post Joining\\CTS Stage 4 Microsoft Azure\\DockerSampleApp\\DockerSampleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DIPIKA\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
